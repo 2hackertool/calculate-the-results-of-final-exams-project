@@ -1,4 +1,4 @@
-from pysytle import Write, Colors
+from pystyle import Write, Colors
 import os
 import time
 import pyphisher
